@@ -4,6 +4,7 @@ Competition Link: https://www.kaggle.com/competitions/widsdatathon2024-challenge
 
 Result: 26th/542
 
+
 [TR]  
 Problem: Hastaların kanser tanısı konmasının ne kadar sürdüğünün tahmin edilmesi.
 
