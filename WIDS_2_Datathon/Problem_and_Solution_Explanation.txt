@@ -2,7 +2,7 @@ Competition Name: WiDS Datathon 2024 Challenge #2
 Competition Link: https://www.kaggle.com/competitions/widsdatathon2024-challenge2/overview
 
 [TR] 
-Result: 26th/542
+Sonuç: 26th/542
 Problem: Hastaların kanser tanısı konmasının ne kadar sürdüğünün tahmin edilmesi.
 Yaklaşımım: Veri seti 13200 gözlem ve 152 özelliğe sahip. Yani oldukça kısıtlı gözlemimiz ve çok fazla özelliğimiz var.
 Overfit etmekten çekindiğim için şu stratejiyi izledim:
