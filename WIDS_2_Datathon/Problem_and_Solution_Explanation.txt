@@ -1,8 +1,8 @@
 Competition Name: WiDS Datathon 2024 Challenge #2
 Competition Link: https://www.kaggle.com/competitions/widsdatathon2024-challenge2/overview
+Result: 26th/542
 
-[TR] 
-Sonuç: 26th/542
+[TR]  
 Problem: Hastaların kanser tanısı konmasının ne kadar sürdüğünün tahmin edilmesi.
 Yaklaşımım: Veri seti 13200 gözlem ve 152 özelliğe sahip. Yani oldukça kısıtlı gözlemimiz ve çok fazla özelliğimiz var.
 Overfit etmekten çekindiğim için şu stratejiyi izledim:
@@ -17,7 +17,6 @@ Geliştirilebilecek yönler:
 ----------------------------------------------------
 
 [EN]
-Result: 26th/542
 Problem: Predict the duration of time it takes for patients to receive a cancer diagnosis.
 My approach: The dataset contains 13,200 observations and 152 features. This means we have a relatively small number of observations and a large number of features.
 To avoid overfitting, I followed this strategy:
